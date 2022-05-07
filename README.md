@@ -5,13 +5,13 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
 
 ## Hobbies🚀:
 ### Viajar✈️
-Jogar Videogame🎮
-Jogar bola⚽
-Ver vídeos de Hardware💿
+### Jogar Videogame🎮
+### Jogar bola⚽
+### Ver vídeos de Hardware💿
 
 ## Como entrar em contato📇:
-E-mail:nicolastqi---@gmail.com
-Telefone:5599105---
+### E-mail:nicolastqi---@gmail.com
+### Telefone:5599105---
 
 
 
