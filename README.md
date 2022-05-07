@@ -25,8 +25,7 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
 
 
 ### Como entrar em contato📇:
-* E-mail:nicolastqi---@gmail.com
-* Telefone:5599105---
+* [Discord](https://discord.gg/Tyj3K4zxru)
 
 
 
