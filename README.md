@@ -15,7 +15,7 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
  * Ver vídeos de Hardware💿
  
  
-## *Interesses*:
+## *Interesses*😀:
 
 * HTML5
 * CSS3
