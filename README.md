@@ -4,7 +4,7 @@ Sou aluno do Colégio Técnico Industrial de Santa Maria na área de informátic
 Desde muito novo me interessei em informática. Já usei outros sistemas operacionais como Kali Linux com o intuíto de saber mais sobre segurança digital.
 
 --- 
-## Repositórios:
+## *Repositórios*🤖:
 * [Algoritmos](https://github.com/NicolasZimmer2/Algoritmos)
 
 
