@@ -7,14 +7,14 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
 ## *Repositórios*🤖:
 * [Algoritmos](https://github.com/NicolasZimmer2/Algoritmos)
 
-
+---
 ## *Hobbies*🚀:
  * Viajar✈️
  * Jogar Videogame🎮
  * Jogar bola⚽
  * Ver vídeos de Hardware💿
  
- 
+ ---
 ## *Interesses*😀:
 
 * HTML5
@@ -22,7 +22,7 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
 * JavaScript
 * Phyton
  
-
+---
 
 ### Como entrar em contato📇:
 * [Discord](https://discord.gg/Tyj3K4zxru)
