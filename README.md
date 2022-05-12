@@ -14,7 +14,7 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
  * Jogar bola⚽
  * Ver vídeos de Hardware💿
 
- 
+--- 
 ## *Interesses*😀:
 
 * HTML5
