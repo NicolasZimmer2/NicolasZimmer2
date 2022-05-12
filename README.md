@@ -22,7 +22,7 @@ Desde muito novo me interessei em informática. Já usei outros sistemas operaci
 * JavaScript
 * Phyton
  
-
+---
 
 ### Como entrar em contato📇:
 * [Discord](https://discord.gg/Tyj3K4zxru)
